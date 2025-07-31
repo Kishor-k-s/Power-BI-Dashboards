@@ -3,7 +3,16 @@
 This Power BI dashboard analyzes Flipkart’s sales data across multiple dimensions such as product segments, ratings, returns, and geographical regions. Built using a dataset of 51,000+ transactions, the dashboard provides clear visual and quantitative insights for business performance evaluation.
 
 ---
+## 📸 Screenshots
+<img width="1320" height="744" alt="Screenshot 2025-07-31 111646" src="https://github.com/user-attachments/assets/501a5116-240b-4d20-a7e0-689c6ce6dbc5" />
 
+
+
+## 🔗 Live Dashboard  
+[🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTE0MTlhODctMjBjYi00ODI0LWE0ZDYtMzE1Yjc5MGFhNThjIiwidCI6ImI2N2YzZGM5LTcwNzUtNDJjZS1hYTI3LTY5YWY2NTk3NTFmOSJ9)
+
+
+---
 ## 🔧 Tools Used
 - Power BI
 - DAX (for calculated KPIs)
@@ -30,15 +39,6 @@ This Power BI dashboard analyzes Flipkart’s sales data across multiple dimensi
 ## 🗂 Dataset Info
 - Source: Simulated e-commerce sales dataset
 - Columns: Order Date, Product Name, Segment, Region, Sales, Units Sold, Returns, Ratings
-
----
-
-## 🔗 Live Dashboard  
-[🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTE0MTlhODctMjBjYi00ODI0LWE0ZDYtMzE1Yjc5MGFhNThjIiwidCI6ImI2N2YzZGM5LTcwNzUtNDJjZS1hYTI3LTY5YWY2NTk3NTFmOSJ9)
-
-## 📸 Screenshots
-![Dashboard Overview](<img width="1320" height="744" alt="Screenshot 2025-07-31 111646" src="https://github.com/user-attachments/assets/501a5116-240b-4d20-a7e0-689c6ce6dbc5" />)
-
 
 ---
 
