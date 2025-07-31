@@ -34,11 +34,11 @@ This Power BI dashboard analyzes Flipkart’s sales data across multiple dimensi
 ---
 
 ## 🔗 Live Dashboard  
-[🔗 View Dashboard](YOUR_PUBLIC_LINK_HERE)
+[🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTE0MTlhODctMjBjYi00ODI0LWE0ZDYtMzE1Yjc5MGFhNThjIiwidCI6ImI2N2YzZGM5LTcwNzUtNDJjZS1hYTI3LTY5YWY2NTk3NTFmOSJ9)
 
 ## 📸 Screenshots
-![Dashboard Overview](screenshots/flipkart_dashboard_1.png)
-![Sales by Region](screenshots/flipkart_dashboard_2.png)
+![Dashboard Overview](<img width="1320" height="744" alt="Screenshot 2025-07-31 111646" src="https://github.com/user-attachments/assets/501a5116-240b-4d20-a7e0-689c6ce6dbc5" />)
+
 
 ---
 
